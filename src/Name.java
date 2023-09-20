@@ -1,9 +1,4 @@
-package sew3.theorie.junit.src;
-
-
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * Simple class which interprets a string as name.
